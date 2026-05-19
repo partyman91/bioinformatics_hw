@@ -1,0 +1,16 @@
+  285  tail -5 ~/bioinformatics_hw/linux_task/data/raw/samples_list.txt
+  286  cd ~/bioinformatics_hw
+  287  git add .
+  288  git commit -m "Add sample list and count"
+  289  git checkout -b git-practice\n
+  290  echo "This is very important data." > important_note.txt\n
+  291  git add important_note.txt
+  292  git commit -m "Add important note"
+  293  rm important_note.txt
+  294  ls important_note.txt 2>/dev/null || echo "File deleted"
+  295  git status
+  296  git checkout HEAD -- important_note.txt
+  297  echo "git checkout HEAD -- important_note.txt" > ~/bioinformatics_hw/git_command.txt
+  298  git add .
+  299  git commit -m "Restore deleted file"
+  300  history
