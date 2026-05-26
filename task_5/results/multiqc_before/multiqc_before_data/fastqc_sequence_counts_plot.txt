@@ -1,0 +1,5 @@
+Sample	Unique Reads	Duplicate Reads
+ERR14230582_Illumina_HiSeq_4000_sequencing	289023.0	287600.0
+ERR14230586_Illumina_HiSeq_4000_sequencing	1408283.0	418022.0
+ERR14230595_Illumina_HiSeq_4000_sequencing	537933.0	590815.0
+ERR14230607_Illumina_HiSeq_4000_sequencing	378513.0	675898.0

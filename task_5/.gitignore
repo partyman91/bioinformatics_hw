@@ -1,0 +1,4 @@
+data/*.fastq.gz
+results/trimmed/*_trimmed.fastq.gz
+logs/
+.ipynb_checkpoints/

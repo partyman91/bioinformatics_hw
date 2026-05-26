@@ -1,0 +1,5 @@
+Sample	Passed Filter	Low Quality	Too Many N	Low Complexity	Too Short	Too Long
+ERR14230582_Illumina_HiSeq_4000_sequencing	396126.0	4.0	0.0	nan	180493.0	0.0
+ERR14230586_Illumina_HiSeq_4000_sequencing	1450141.0	30.0	0.0	nan	376134.0	0.0
+ERR14230595_Illumina_HiSeq_4000_sequencing	791927.0	13.0	0.0	nan	336808.0	0.0
+ERR14230607_Illumina_HiSeq_4000_sequencing	719112.0	12.0	0.0	nan	335287.0	0.0
